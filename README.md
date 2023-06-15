@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I built this portfolio site to practice web development. 
+I do public health data stuff.
 
 <!--
 **esites638/esites638** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
